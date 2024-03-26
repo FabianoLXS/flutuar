@@ -9,4 +9,4 @@ Challange 01 | Recreate an application, based on a ready-made layout in Figma, t
 - Applying custom fonts;
 - Spacing.
 
-![Challange "Flutuar"](./assets/flutuar.png)
+![Challange "Flutuar"](https://github.com/FabianoLXS/flutuar/blob/main/images/flutuar.png)
